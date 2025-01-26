@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f4f9;
+    background-image: url('libros.jpg');
+  }
+  
+  .card {
+    border-radius: 12px;
+  }
+  
+  #results .book {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #results .book:last-child {
+    border-bottom: none;
+  }
+  .custom-title {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .col-auto {
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+  }
+  
